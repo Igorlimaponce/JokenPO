@@ -10,7 +10,6 @@
 - [Funcionalidades](#funcionalidades)
 - [Capturas de Tela](#capturas-de-tela)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Pré-requisitos](#pré-requisitos)
 - [Como Jogar](#como-jogar)
 
